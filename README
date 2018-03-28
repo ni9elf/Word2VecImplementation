@@ -1,0 +1,1 @@
+To generate training and testing samples for the word2vec model use the `generate_train_samples.py` on a corpus. The model is implemented in Keras in the file `skip_gram.py`. The file `word2vec.py` trains and saves the model. Use `visualize.py` to create a t-SNE plot of the word embeddings.
