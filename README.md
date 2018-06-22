@@ -4,15 +4,20 @@ A Keras implementation of [word2vec](https://arxiv.org/abs/1301.3781), specifica
 
 ## Model architecture
 
+<p align="center"> 
+<img src="assets/skip_gram_model.png">
+</p>
 
-## Prerequisites
+## Reference
 
-## Usage
+Mikolov, Tomas, et al. "Efficient estimation of word representations in vector space." arXiv preprint arXiv:1301.3781 (2013). \url{https://arxiv.org/pdf/1301.3781.pdf}
 
+## Author
 
-## Code Organization
-To generate training and testing samples for the word2vec model use the `generate_train_samples.py` on a corpus. The model is implemented in Keras in the file `skip_gram.py`. The file `word2vec.py` trains and saves the model. Use `visualize.py` to create a t-SNE plot of the word embeddings.
+[@snehasinghania](https://github.com/snehasinghania)
 
-## References
+Sneha Singhania
 
+[@ni9elf](https://github.com/ni9elf)
 
+Nigel Fernandez 
