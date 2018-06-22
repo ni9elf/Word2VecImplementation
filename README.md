@@ -10,7 +10,7 @@ A Keras implementation of [word2vec](https://arxiv.org/abs/1301.3781), specifica
 
 ## Reference
 
-Mikolov, Tomas, et al. "Efficient estimation of word representations in vector space." arXiv preprint arXiv:1301.3781 (2013). [https://arxiv.org/pdf/1301.3781.pd](https://arxiv.org/pdf/1301.3781.pdf)
+Mikolov, Tomas, et al. "Efficient estimation of word representations in vector space." arXiv preprint arXiv:1301.3781 (2013). [https://arxiv.org/pdf/1301.3781.pdf](https://arxiv.org/pdf/1301.3781.pdf)
 
 ## Author
 
